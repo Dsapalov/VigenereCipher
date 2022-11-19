@@ -13,6 +13,7 @@
 		B641B7A5292923FF00FBCA5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B641B7A3292923FF00FBCA5A /* Main.storyboard */; };
 		B641B7A72929240600FBCA5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B641B7A62929240600FBCA5A /* Assets.xcassets */; };
 		B641B7AA2929240600FBCA5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B641B7A82929240600FBCA5A /* LaunchScreen.storyboard */; };
+		B643F37E292927AA00686A1B /* VigenereCipher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B643F37D292927AA00686A1B /* VigenereCipher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B641B7A62929240600FBCA5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B641B7A92929240600FBCA5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B641B7AB2929240600FBCA5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B643F37D292927AA00686A1B /* VigenereCipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VigenereCipher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B641B7A62929240600FBCA5A /* Assets.xcassets */,
 				B641B7A82929240600FBCA5A /* LaunchScreen.storyboard */,
 				B641B7AB2929240600FBCA5A /* Info.plist */,
+				B643F37D292927AA00686A1B /* VigenereCipher.swift */,
 			);
 			path = VigenereCipher;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				B641B7A2292923FF00FBCA5A /* ViewController.swift in Sources */,
 				B641B79E292923FF00FBCA5A /* AppDelegate.swift in Sources */,
 				B641B7A0292923FF00FBCA5A /* SceneDelegate.swift in Sources */,
+				B643F37E292927AA00686A1B /* VigenereCipher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
